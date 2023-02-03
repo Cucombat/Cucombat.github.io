@@ -1,0 +1,30 @@
+.main{
+    background-color: blue;
+    height: 1000px;
+    padding-top: 250px;
+    padding-left: 40%;
+}
+.fra{
+    background-color: #E5E5E5;;
+    height: 500px;
+    width: 500px;
+    border-radius: 25px;
+}
+.fra h1{
+    padding-top: 25px;
+}
+.fra input{
+    border-radius: 7px;
+    height: 30px;
+}
+.fra button{
+    background-color: #AAAAAA;
+    border-radius: 7px;
+    position: relative;
+    top: -36px;
+    left: 80px;
+    font-size: 30px;
+}
+ul{
+    list-style: none;
+}
