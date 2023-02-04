@@ -2,13 +2,13 @@
     background-color: blue;
     height: 1000px;
     padding-top: 250px;
-    padding-left: 40%;
 }
 .fra{
-    background-color: #E5E5E5;;
+    background-color: #ffffff;;
     height: 500px;
-    width: 500px;
+    max-width: 500px;
     border-radius: 25px;
+    overflow-y: scroll
 }
 .fra h1{
     padding-top: 25px;
@@ -18,13 +18,23 @@
     height: 30px;
 }
 .fra button{
-    background-color: #AAAAAA;
+    background-color: #d4d4d4;
     border-radius: 7px;
     position: relative;
     top: -36px;
     left: 80px;
     font-size: 30px;
+    
 }
 ul{
     list-style: none;
+    max-width: 400px;
+}
+.wrapper li{
+    background-color: rgb(0, 183, 255);
+    border-radius: 20px;
+    min-height: 30px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
 }
